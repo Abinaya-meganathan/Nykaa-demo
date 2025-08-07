@@ -29,28 +29,17 @@ This is a **cosmetic e-commerce front-end project** inspired by [Nykaa](https://
 ---
 
 ## 📁 Folder Structure
+My portfolio
 
 
----
+----------
 
-## 📸 Screenshots
-
-_Add screenshots here if you'd like_
-
----
-
-## 📈 Future Improvements
-
-- Make it mobile-responsive
-- Add a working contact form
-- Improve layout with Flexbox or Grid
-- Add JavaScript for interactivity
-
----
 
 ## 🙋‍♀️ About Me
 
 Hi, I'm **Abinaya Meganathan** – an aspiring front-end/web developer, learning step by step and building real-world projects. Feel free to connect with me!
+
+This is Linkeding profile - https://www.linkedin.com/in/abinaya-meganathan-52093a216/
 
 ---
 
