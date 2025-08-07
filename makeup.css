@@ -1,0 +1,224 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    
+    height: 70px;
+    background-color: rgb(248, 211, 217);
+    position: sticky;
+    top: 0px;
+   
+}
+
+a{
+    font-family:'Times New Roman', Times, serif;
+    color: grey;
+    padding: 5px;
+    position: relative;
+    top: 20px;
+    
+}
+
+.pro{
+    padding-left: 1050px;
+}
+
+
+a:hover{
+    color: black;
+    cursor: pointer;
+}
+
+h1{
+    display: inline;
+    color: rgb(248, 85, 112);
+    font-family:'Times New Roman', Times, serif;
+    font-size: 30px;
+    font-weight: bolder;
+    padding-left: 40px;
+    position: relative;
+    top: 20px;
+}
+
+input{
+    margin-top: 20px;
+   width: 800px;
+   height: 35px;
+
+}
+
+.searchbar{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.images{
+    border: 2px, solid, black;
+    display: inline-block;
+    width: 220px;
+    text-align: center;
+
+}
+
+.products{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.name{
+    font-weight: bolder;
+}
+
+.images:hover{
+    background-color: black;
+    cursor: pointer;
+    color: white;
+}
+
+.offer{
+    display: flex;
+    justify-content: center;
+}
+
+span{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.firstorder{
+    display: block;
+}
+
+#offer{
+    color: brown;
+    font-weight: bold;
+    text-align: center;
+}
+
+.endbar{
+    padding-top: 10px;
+    height: 120px;
+    background-color: rgb(248, 211, 217);
+    text-align: center;
+}
+
+#last{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 13px;
+}
+
+.info{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+.skincare{
+    display: flex;
+    justify-content: space-around;
+}
+
+.skin2{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-style: italic;
+}
+
+/*gift card page*/
+
+.card{
+    background-color: white;
+    text-align: center;
+}
+
+.form{
+    margin-left: 200px;
+    margin-right: 200px;
+    background-color: rgb(231, 187, 194);
+    border: 1px, solid black;
+    text-align: left;
+    
+}
+
+.legend{
+    color: rgb(235, 65, 93);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 900;
+    font-size: 25px;
+}
+
+button{
+    margin-left: 500px;
+    font-size: 25px;
+    background-color: rgb(244, 167, 167);
+    color: black;
+    font-weight: bolder;
+    padding: 3px;
+
+}
+
+/*help page */
+
+.sign{
+    border: 2px solid pink;
+    margin-top: 20px;
+    text-align: center;
+    margin-left: 70px;
+    margin-right: 70px;
+    background-color: rgb(242, 235, 237);
+
+}
+
+.help{
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(232, 26, 60);
+    font-weight: bolder;
+    font-size: 22px;
+}
+
+.but1{
+    font-size: 25px;
+    background-color: rgb(236, 42, 97);
+    color: white;
+    font-weight: bolder;
+    padding: 3px;
+    margin-right: 500px;
+    border-radius: 10px;
+
+}
+
+.issue{
+    border: 2px solid pink;
+    text-align: center;
+    margin-left: 70px;
+    margin-right: 70px;
+    background-color: rgb(242, 235, 237);
+   
+
+}
+
+.but2{
+    padding-left: 30px;
+    padding-right: 30px;
+
+}
+
+#b{
+    color: rgb(232, 26, 60);
+}
+
+/*about us page*/
+
+.c{
+    padding: 10px;
+    font-size: 28px;
+}
+
+
+
+
+
